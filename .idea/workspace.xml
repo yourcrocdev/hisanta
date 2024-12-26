@@ -24,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yourcrocdev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yourcrocdev/hisanta.git&quot;,
+    &quot;accountId&quot;: &quot;a636a123-44a8-4241-9005-f35513802663&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -48,6 +60,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yourc/Documents/GitHub/hisanta&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -97,6 +110,10 @@
       <workItem from="1734976888760" duration="33000" />
       <workItem from="1734977937283" duration="157000" />
       <workItem from="1735055967124" duration="169000" />
+      <workItem from="1735149200912" duration="454000" />
+      <workItem from="1735150322445" duration="5000" />
+      <workItem from="1735160520347" duration="11000" />
+      <workItem from="1735235679265" duration="39000" />
     </task>
     <servers />
   </component>
